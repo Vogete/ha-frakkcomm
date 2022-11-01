@@ -1,0 +1,10 @@
+{
+  "domain": "frakkcomm",
+  "name": "FrakkComm",
+  "documentation": "https://github.com/Vogete/frakkcomm",
+  "dependencies": [],
+  "codeowners": ["@Vogete"],
+  "requirements": ["frakkcomm==1.0.1"],
+  "iot_class": "assumed_state",
+  "version": "1.0.0"
+}
