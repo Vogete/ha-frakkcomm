@@ -7,9 +7,6 @@ import homeassistant.helpers.config_validation as cv
 from homeassistant.components.light import (
     LightEntity,
     ATTR_BRIGHTNESS,
-    ATTR_WHITE_VALUE,
-    ATTR_COLOR_NAME,
-    ATTR_RGB_COLOR,
     ATTR_HS_COLOR,
     PLATFORM_SCHEMA,
     SUPPORT_BRIGHTNESS,
